@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221136632710",
+    "project_id": "fir-srorage2",
+    "storage_bucket": "fir-srorage2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221136632710:android:bdcaa6753209bafded0a07",
+        "android_client_info": {
+          "package_name": "com.example.firebasesrorage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221136632710-ktn6brjsg1dj7lbejgk8n6pt27hp4mm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQXcg9i6-8SGsIYW1dsD-JCBdcTM1G-d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221136632710-ktn6brjsg1dj7lbejgk8n6pt27hp4mm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
